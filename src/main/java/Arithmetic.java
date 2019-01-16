@@ -1,6 +1,7 @@
+import java.util.*;
+
 class Arithmetic {
-    public int sum(int[] numbers) {
+    public int sum(List<Integer> numbers) {
         // TODO: Implement me
-        return 0;
     }
 }
